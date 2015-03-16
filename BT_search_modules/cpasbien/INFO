@@ -1,0 +1,10 @@
+{
+      "name": "cpasbien",
+	  "displayname": "C pas bien",
+	  "description": "Cpasbien.pw est un site de téléchargement de Torrent : Films, Séries, Albums, Logiciels, Jeux",
+	  "version": "0.2",
+	  "site": "http://www.cpasbien.pw",
+	  "module": "search.php",
+	  "type": "search",
+	  "class": "SynoDLMSearchCpasbien"
+}
